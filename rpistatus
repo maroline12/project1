@@ -1,0 +1,6 @@
+which ping
+ping 8.8.8.8
+ls -lsa /bin/ping
+sudo chmod 4711 /bin/ping
+ls -lsa /bin/ping
+ping 8.8.8.8
